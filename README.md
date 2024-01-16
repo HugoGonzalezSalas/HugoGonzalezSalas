@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hgonzalezsalas03@gmail.com**
 
-- 📄 Know about my experiences [CV]
+- 📄 Know about my experiences CV.
       
 ![image](giphy.gif)
 
