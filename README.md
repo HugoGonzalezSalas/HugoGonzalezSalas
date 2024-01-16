@@ -1,6 +1,6 @@
 <h1 align="center">😄 Hi , I'm Hugo Gonzalez Salas 😄 </h1>
 <p align="left">
-  <img src="giphy.gif" alt="image" width="440" align="right">
+  <img src="giphy.gif" alt="image" width="425" align="right">
 </p>
 
 <br>
