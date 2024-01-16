@@ -1,11 +1,11 @@
 <h1 align="center">😄 Hi , I'm Hugo Gonzalez Salas 😄 </h1>
-<h3 align="left">A passionate Sys Admin from Spain 🇪🇸</h3>
-
 <p align="left">
   <img src="giphy.gif" alt="image" width="450" align="right">
 </p>
 
 <br>
+
+- 🇪🇸 A passionate Sys Admin from **Spain**
 
 - 🌱 I’m currently learning **Sys Admins skills**
 
