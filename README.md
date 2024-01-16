@@ -6,6 +6,8 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HugoGonzalezSalas)
 
 - 📫 How to reach me **hgonzalezsalas03@gmail.com**
+
+- 📄 Know about my experiences [CV]
       
 ![image](giphy.gif)
 
