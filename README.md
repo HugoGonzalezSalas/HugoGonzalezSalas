@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Sys Admin from Spain 🇪🇸</h3>
 
 <p align="left">
-  <img src="giphy.gif" alt="image" width="300" align="right">
+  <img src="giphy.gif" alt="image" width="450" align="right">
 </p>
 
 - 🌱 I’m currently learning **Sys Admins skills**
