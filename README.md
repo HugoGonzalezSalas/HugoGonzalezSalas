@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/HugoGonzalezSalas)**
 
-- 📫 How to reach me **hgonzalezsalas03@gmail.com**
+- 📫 How to reach me hgonzalezsalas03@gmail.com
 
 - 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1yMCvjeJzmFIVnbKk9oraMI9B8wTGvjUP/view?usp=sharing)**.
 
