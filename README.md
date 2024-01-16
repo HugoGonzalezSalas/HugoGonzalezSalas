@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Sys Admins skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManuelMorenoNeria](https://github.com/HugoGonzalezSalas)
+- 👨‍💻 All of my projects are available at [https://github.com/HugoGonzalezSalas](https://github.com/HugoGonzalezSalas)
 
 - 📫 How to reach me **hgonzalezsalas03@gmail.com**
 
