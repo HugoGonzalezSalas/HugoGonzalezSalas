@@ -5,6 +5,8 @@
   <img src="giphy.gif" alt="image" width="450" align="right">
 </p>
 
+<br>
+
 - 🌱 I’m currently learning **Sys Admins skills**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HugoGonzalezSalas)
